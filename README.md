@@ -8,7 +8,7 @@ This Python script fetches current weather data for a specific city using the Op
 
 ## Usage
 - Make sure you have Python installed on your system.
-- Replace the API_KEY variable with your own OpenWeatherMap API key from (https://home.openweathermap.org/api_keys).
+- Replace the API_KEY variable with your own OpenWeatherMap API key from (https://home.openweathermap.org/).
 - Run the script, and it will display the current weather for the specified city.
 
 ## Dependencies
