@@ -3,7 +3,7 @@ import requests
 
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
 API_KEY = "8557385f912cbbe41bb9873082130630"
-CITY = "Vienna"
+CITY = "Visakhapattanam"
 
 def kelvin_to_celsius_fahrenheit(kelvin):
     celsius = kelvin - 273.15
